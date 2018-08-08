@@ -1,0 +1,6 @@
+E:\VueTests\VueTest\VueTest\bin\VueTest.dll.config
+E:\VueTests\VueTest\VueTest\bin\VueTest.dll
+E:\VueTests\VueTest\VueTest\bin\VueTest.pdb
+E:\VueTests\VueTest\VueTest\obj\Debug\VueTest.csprojResolveAssemblyReference.cache
+E:\VueTests\VueTest\VueTest\obj\Debug\VueTest.dll
+E:\VueTests\VueTest\VueTest\obj\Debug\VueTest.pdb
